@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ryanliu.win/"/>
-  <updated>2016-05-31T08:38:01.760Z</updated>
+  <updated>2016-05-31T08:50:10.460Z</updated>
   <id>http://ryanliu.win/</id>
   
   <author>
@@ -20,24 +20,24 @@
     <link href="http://ryanliu.win/2016/05/31/Dem2/"/>
     <id>http://ryanliu.win/2016/05/31/Dem2/</id>
     <published>2016-05-31T08:35:25.000Z</published>
-    <updated>2016-05-31T08:38:01.760Z</updated>
+    <updated>2016-05-31T08:50:10.460Z</updated>
     
     <content type="html">&lt;p&gt;Tuesday, May 31, 2016&lt;/p&gt;
 &lt;p&gt;5/31/2016 4:35:55 PM&lt;/p&gt;
-&lt;h2 id=&quot;Demo&quot;&gt;&lt;a href=&quot;#Demo&quot; class=&quot;headerlink&quot; title=&quot;Demo++&quot;&gt;&lt;/a&gt;Demo++&lt;/h2&gt;&lt;h1 id=&quot;Hello-Demo-！&quot;&gt;&lt;a href=&quot;#Hello-Demo-！&quot; class=&quot;headerlink&quot; title=&quot;Hello Demo++！&quot;&gt;&lt;/a&gt;Hello Demo++！&lt;/h1&gt;&lt;h2 id=&quot;Hello-Demopp&quot;&gt;&lt;a href=&quot;#Hello-Demopp&quot; class=&quot;headerlink&quot; title=&quot;Hello Demopp!&quot;&gt;&lt;/a&gt;Hello Demopp!&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Hello Demo++!&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Hello-Demo&quot;&gt;&lt;a href=&quot;#Hello-Demo&quot; class=&quot;headerlink&quot; title=&quot;Hello Demo!&quot;&gt;&lt;/a&gt;Hello Demo!&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Hello Demo++!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;####Hello Demo++!##&lt;br&gt;&lt;code&gt;printf(&amp;quot;Hello Demo++!&amp;quot;);&lt;/code&gt;&lt;/p&gt;
-&lt;ul&gt;
+&lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;p&gt;默认格式&lt;/p&gt;
+&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot; title=&quot;二级标题&quot;&gt;&lt;/a&gt;二级标题&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;加粗&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;三级标题&quot;&gt;&lt;a href=&quot;#三级标题&quot; class=&quot;headerlink&quot; title=&quot;三级标题&quot;&gt;&lt;/a&gt;三级标题&lt;/h3&gt;&lt;p&gt;&lt;em&gt;斜体&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&quot;四级标题&quot;&gt;&lt;a href=&quot;#四级标题&quot; class=&quot;headerlink&quot; title=&quot;四级标题&quot;&gt;&lt;/a&gt;四级标题&lt;/h4&gt;&lt;p&gt;此处是代码：&lt;code&gt;printf(&amp;quot;Hello Demo++!&amp;quot;);&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&quot;无序列表&quot;&gt;&lt;a href=&quot;#无序列表&quot; class=&quot;headerlink&quot; title=&quot;无序列表&quot;&gt;&lt;/a&gt;无序列表&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;Demo++ 帅爆啦！&lt;/li&gt;
 &lt;li&gt;Demo++ So Nice！&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;
+&lt;h4 id=&quot;引用&quot;&gt;&lt;a href=&quot;#引用&quot; class=&quot;headerlink&quot; title=&quot;引用&quot;&gt;&lt;/a&gt;引用&lt;/h4&gt;&lt;blockquote&gt;
 &lt;p&gt;这段是引用。&lt;br&gt;同时测试换行。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;http://demopp.in/&quot; title=&quot;Demo++官网&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Demo++官网&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&quot;http://demopp.in/images/header-bg.png&quot; alt=&quot;官网背景@@@&quot; title=&quot;官网背景&quot;&gt;&lt;/p&gt;
-&lt;ol&gt;
+&lt;h4 id=&quot;图片&quot;&gt;&lt;a href=&quot;#图片&quot; class=&quot;headerlink&quot; title=&quot;图片&quot;&gt;&lt;/a&gt;图片&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://demopp.in/&quot; title=&quot;Demo++官网&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Demo++官网链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://demopp.in/images/header-bg.png&quot; alt=&quot;官网背景&quot; title=&quot;官网背景&quot;&gt;&lt;/p&gt;
+&lt;h4 id=&quot;有序列表&quot;&gt;&lt;a href=&quot;#有序列表&quot; class=&quot;headerlink&quot; title=&quot;有序列表&quot;&gt;&lt;/a&gt;有序列表&lt;/h4&gt;&lt;h2 id=&quot;水平线就在脚下&quot;&gt;&lt;a href=&quot;#水平线就在脚下&quot; class=&quot;headerlink&quot; title=&quot;水平线就在脚下&quot;&gt;&lt;/a&gt;水平线就在脚下&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;这工具不错&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;试试&lt;/p&gt;
@@ -53,7 +53,52 @@
     
       &lt;p&gt;Tuesday, May 31, 2016&lt;/p&gt;
 &lt;p&gt;5/31/2016 4:35:55 PM&lt;/p&gt;
-&lt;h2 id=&quot;Demo&quot;&gt;&lt;a href=&quot;#Demo&quot; class=&quot;headerlink&quot; title=&quot;Demo++&quot;&gt;&lt;/a&gt;Demo++&lt;/h2&gt;&lt;h1 
+&lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;p&gt;默认格式&lt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Demo++产品研究（终极版）</title>
+    <link href="http://ryanliu.win/2016/05/31/Dem3/"/>
+    <id>http://ryanliu.win/2016/05/31/Dem3/</id>
+    <published>2016-05-31T08:35:25.000Z</published>
+    <updated>2016-05-31T08:50:46.561Z</updated>
+    
+    <content type="html">&lt;p&gt;Tuesday, May 31, 2016&lt;/p&gt;
+&lt;p&gt;5/31/2016 4:35:55 PM&lt;/p&gt;
+&lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;p&gt;默认格式&lt;/p&gt;
+&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot; title=&quot;二级标题&quot;&gt;&lt;/a&gt;二级标题&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;加粗&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;三级标题&quot;&gt;&lt;a href=&quot;#三级标题&quot; class=&quot;headerlink&quot; title=&quot;三级标题&quot;&gt;&lt;/a&gt;三级标题&lt;/h3&gt;&lt;p&gt;&lt;em&gt;斜体&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&quot;四级标题&quot;&gt;&lt;a href=&quot;#四级标题&quot; class=&quot;headerlink&quot; title=&quot;四级标题&quot;&gt;&lt;/a&gt;四级标题&lt;/h4&gt;&lt;p&gt;此处是代码：&lt;code&gt;printf(&amp;quot;Hello Demo++!&amp;quot;);&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&quot;无序列表&quot;&gt;&lt;a href=&quot;#无序列表&quot; class=&quot;headerlink&quot; title=&quot;无序列表&quot;&gt;&lt;/a&gt;无序列表&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Demo++ 帅爆啦！&lt;/li&gt;
+&lt;li&gt;Demo++ So Nice！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;引用&quot;&gt;&lt;a href=&quot;#引用&quot; class=&quot;headerlink&quot; title=&quot;引用&quot;&gt;&lt;/a&gt;引用&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;这段是引用。&lt;br&gt;同时测试换行。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;图片&quot;&gt;&lt;a href=&quot;#图片&quot; class=&quot;headerlink&quot; title=&quot;图片&quot;&gt;&lt;/a&gt;图片&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://demopp.in/&quot; title=&quot;Demo++官网&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Demo++官网链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://demopp.in/images/header-bg.png&quot; alt=&quot;官网背景&quot; title=&quot;官网背景&quot;&gt;&lt;/p&gt;
+&lt;h4 id=&quot;有序列表&quot;&gt;&lt;a href=&quot;#有序列表&quot; class=&quot;headerlink&quot; title=&quot;有序列表&quot;&gt;&lt;/a&gt;有序列表&lt;/h4&gt;&lt;h2 id=&quot;水平线就在脚下&quot;&gt;&lt;a href=&quot;#水平线就在脚下&quot; class=&quot;headerlink&quot; title=&quot;水平线就在脚下&quot;&gt;&lt;/a&gt;水平线就在脚下&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;这工具不错&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;试试&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;不用管前面，自动的&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;棒棒哒。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Tuesday, May 31, 2016&lt;/p&gt;
+&lt;p&gt;5/31/2016 4:35:55 PM&lt;/p&gt;
+&lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;p&gt;默认格式&lt;
     
     </summary>
     
