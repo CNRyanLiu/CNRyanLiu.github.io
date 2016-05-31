@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-05-31T02:14:14.603Z</updated>
+  <updated>2016-05-31T06:24:17.813Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试一下</title>
+    <link href="http://yoursite.com/2016/05/31/%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2016/05/31/测试/</id>
+    <published>2016-05-31T06:14:20.000Z</published>
+    <updated>2016-05-31T06:24:17.813Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;strong&gt;测试&lt;/strong&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;测试&lt;/strong&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
